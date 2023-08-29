@@ -32,7 +32,9 @@ For this project, I undertook the task of building a Book Recommendation Engine.
 Here, I leveraged linear regression to develop a model capable of predicting healthcare expenses. Through data analysis and feature engineering, I created a model that can estimate the costs associated with health treatments.
 
 ### 4. [Neural Network SMS Text Classifier](https://github.com/SecondGG/freeCodeCamp-MachineLearningWithPython-Challenges/blob/main/fcc_sms_text_classification.ipynb)
-In this project, I implemented a neural network model for sentiment classification of SMS messages. By training the model on a labeled dataset, it can effectively differentiate between legitimate messages ("ham") and spam messages.
+In this project, I implemented a neural network model for sentiment classification of SMS messages. By training the model on a labeled dataset, it can effectively differentiate between legitimate messages (ham) and spam messages.
+(If the notebook is not loaded correctly after you click on the link, please use this [link](https://colab.research.google.com/drive/1Eq-r6dlHYVhhoDFDlYw0RL1gEDIXWYux?usp=sharing) as an alternative.)
+
 
 ---
 
