@@ -33,3 +33,8 @@ Here, I leveraged linear regression to develop a model capable of predicting hea
 
 ### 4. [Neural Network SMS Text Classifier](https://github.com/SecondGG/freeCodeCamp-MachineLearningWithPython-Challenges/blob/main/fcc_sms_text_classification.ipynb)
 In this project, I implemented a neural network model for sentiment classification of SMS messages. By training the model on a labeled dataset, it can effectively differentiate between legitimate messages ("ham") and spam messages.
+
+---
+
+![Certificaiton](https://cdn.pic.in.th/file/picinth/image_2023-08-29_145857417.png)
+Here's the [Link](https://www.freecodecamp.org/certification/nattawutcham_study/machine-learning-with-python-v7) to my certification.
